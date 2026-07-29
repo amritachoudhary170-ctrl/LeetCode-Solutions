@@ -7,13 +7,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
