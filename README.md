@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
