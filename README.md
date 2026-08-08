@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
