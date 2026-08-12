@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -52,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -85,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
