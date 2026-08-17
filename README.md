@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [2525-categorize-box-according-to-criteria](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 ## Hash Table
 |  |
 | ------- |
