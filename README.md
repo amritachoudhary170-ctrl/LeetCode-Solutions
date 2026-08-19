@@ -152,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
