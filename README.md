@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2347-best-poker-hand](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
