@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [2347-best-poker-hand](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2347-best-poker-hand](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
