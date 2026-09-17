@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [2525-categorize-box-according-to-criteria](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -289,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
