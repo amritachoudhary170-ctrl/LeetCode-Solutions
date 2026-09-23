@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Memoization
 |  |
 | ------- |
