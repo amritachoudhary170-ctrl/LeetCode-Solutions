@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2347-best-poker-hand](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
