@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2347-best-poker-hand](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
