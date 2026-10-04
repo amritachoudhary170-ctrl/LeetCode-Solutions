@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Tree
 |  |
@@ -377,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
