@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [2396-strictly-palindromic-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
