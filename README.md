@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2347-best-poker-hand](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
