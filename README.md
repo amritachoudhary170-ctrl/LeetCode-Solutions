@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [1021-remove-outermost-parentheses](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
