@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1070-product-sales-analysis-iii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
