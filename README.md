@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Counting
 |  |
 | ------- |
