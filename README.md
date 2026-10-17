@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2347-best-poker-hand](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0441-arranging-coins) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [2396-strictly-palindromic-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
