@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2347-best-poker-hand](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2347-best-poker-hand](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2347-best-poker-hand) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Memoization
 |  |
 | ------- |
