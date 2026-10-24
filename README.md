@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Recursion
