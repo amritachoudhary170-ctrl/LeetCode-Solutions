@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0498-diagonal-traverse](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0704-binary-search](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Memoization
