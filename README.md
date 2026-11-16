@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0223-rectangle-area) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/amritachoudhary170-ctrl/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
